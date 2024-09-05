@@ -86,7 +86,5 @@
 	
 	<a href = "WeekServlet">履歴確認画面へ</a>
 	
-	Test
-	
 </body>
 </html>
